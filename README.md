@@ -18,7 +18,7 @@ Upload a resume PDF and instantly get:
 
 ### Home Page
 
-![Home Page](./home-page.png)
+![Home Page](./home-page.png?v=1)
 
 ---
 
